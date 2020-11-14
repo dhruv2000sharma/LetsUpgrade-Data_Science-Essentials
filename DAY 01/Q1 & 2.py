@@ -1,4 +1,4 @@
-# Name : Yogi Halagunaki
+# Name : DHRUV SHARMA
 # Assignment : 1(Que1 and Que2)
 #
 # Questions 1:
